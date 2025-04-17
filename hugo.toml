@@ -1,0 +1,16 @@
+baseURL = 'https://hshs-dev.github.io/'
+languageCode = 'en-us'
+title = 'CS2Day'
+theme = 'paper'
+
+[params]
+twitter = 'hshs_dev'
+github = 'hshs-dev'
+instagram = 'hs.2k3'
+linkedin = 'hshsdev'
+
+name = 'Hassan Mahmoud'
+bio = 'Sharing everyday learning'
+
+favicon = "favicon.ico"
+appleTouchIcon = "apple-touch-icon.png" 
