@@ -1,4 +1,4 @@
-baseURL = 'https://hshs-dev.github.io/'
+baseURL = 'https://hshs-dev.github.io/cs2day/'
 languageCode = 'en-us'
 title = 'CS2Day'
 theme = 'paper'
