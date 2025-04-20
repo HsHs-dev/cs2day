@@ -6,8 +6,15 @@
     <description>Recent content in Posts on CS2Day</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Apr 2025 15:48:15 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 12:22:15 +0300</lastBuildDate>
     <atom:link href="https://hshs-dev.github.io/cs2day/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todayslesson</title>
+      <link>https://hshs-dev.github.io/cs2day/posts/todayslesson/</link>
+      <pubDate>Sun, 20 Apr 2025 12:22:15 +0300</pubDate>
+      <guid>https://hshs-dev.github.io/cs2day/posts/todayslesson/</guid>
+      <description>&lt;h1 id=&#34;rtfm&#34;&gt;RTFM&lt;/h1&gt;</description>
+    </item>
     <item>
       <title>Test</title>
       <link>https://hshs-dev.github.io/cs2day/posts/test/</link>
