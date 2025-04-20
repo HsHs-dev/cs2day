@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hshs-dev.github.io/</loc>
+    <loc>https://hshs-dev.github.io/cs2day/</loc>
     <lastmod>2025-04-17T15:48:15+03:00</lastmod>
   </url><url>
-    <loc>https://hshs-dev.github.io/posts/</loc>
+    <loc>https://hshs-dev.github.io/cs2day/posts/</loc>
     <lastmod>2025-04-17T15:48:15+03:00</lastmod>
   </url><url>
-    <loc>https://hshs-dev.github.io/posts/test/</loc>
+    <loc>https://hshs-dev.github.io/cs2day/posts/test/</loc>
     <lastmod>2025-04-17T15:48:15+03:00</lastmod>
   </url><url>
-    <loc>https://hshs-dev.github.io/posts/helloworld/</loc>
+    <loc>https://hshs-dev.github.io/cs2day/posts/helloworld/</loc>
     <lastmod>2025-04-17T10:56:04+03:00</lastmod>
   </url><url>
-    <loc>https://hshs-dev.github.io/categories/</loc>
+    <loc>https://hshs-dev.github.io/cs2day/categories/</loc>
   </url><url>
-    <loc>https://hshs-dev.github.io/tags/</loc>
+    <loc>https://hshs-dev.github.io/cs2day/tags/</loc>
   </url>
 </urlset>
