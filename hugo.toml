@@ -14,3 +14,7 @@ bio = 'Sharing everyday learning'
 
 favicon = "favicon.ico"
 appleTouchIcon = "apple-touch-icon.png" 
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
