@@ -6,28 +6,14 @@
     <description>Recent content in Posts on CS2Day</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Apr 2025 12:22:15 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 15:26:19 +0300</lastBuildDate>
     <atom:link href="https://hshs-dev.github.io/cs2day/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Todayslesson</title>
-      <link>https://hshs-dev.github.io/cs2day/posts/todayslesson/</link>
-      <pubDate>Sun, 20 Apr 2025 12:22:15 +0300</pubDate>
-      <guid>https://hshs-dev.github.io/cs2day/posts/todayslesson/</guid>
-      <description>&lt;h1 id=&#34;rtfm&#34;&gt;RTFM&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>https://hshs-dev.github.io/cs2day/posts/test/</link>
-      <pubDate>Thu, 17 Apr 2025 15:48:15 +0300</pubDate>
-      <guid>https://hshs-dev.github.io/cs2day/posts/test/</guid>
-      <description>&lt;h1 id=&#34;just-testing&#34;&gt;JUST TESTING&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>HelloWorld</title>
-      <link>https://hshs-dev.github.io/cs2day/posts/helloworld/</link>
-      <pubDate>Thu, 17 Apr 2025 10:56:04 +0300</pubDate>
-      <guid>https://hshs-dev.github.io/cs2day/posts/helloworld/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello world&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <title>Why CS2Day?</title>
+      <link>https://hshs-dev.github.io/cs2day/posts/whycs2day/</link>
+      <pubDate>Fri, 25 Apr 2025 15:26:19 +0300</pubDate>
+      <guid>https://hshs-dev.github.io/cs2day/posts/whycs2day/</guid>
+      <description>&lt;p&gt;Hello everyone and welcome to &lt;strong&gt;CS2Day&lt;/strong&gt; blog where I share a weekly update on my self-learning journey to &lt;em&gt;computer science&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#who-am-i&#34;&gt;Who am I&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#the-story&#34;&gt;The story&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#the-path&#34;&gt;The Path&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#why-cs2day-blog&#34;&gt;Why CS2Day&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;who-am-i&#34;&gt;Who am I&lt;/h2&gt;&#xA;&lt;p&gt;My name is &lt;strong&gt;Hassan Siddig&lt;/strong&gt; (feel free to mispronounce that), I am 21 years old, third year medical student. I am keen on video games, reading, and bodybuilding. I have developed an interest in tech, especially software, in the last couple of years and aiming to pursue it as a career.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
