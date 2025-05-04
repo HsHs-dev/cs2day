@@ -6,8 +6,15 @@
     <description>Recent content on CS2Day</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Apr 2025 15:26:19 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 20:23:20 +0300</lastBuildDate>
     <atom:link href="https://hshs-dev.github.io/cs2day/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Construction and System Administration</title>
+      <link>https://hshs-dev.github.io/cs2day/posts/softwareconstructionandsystemadministration/</link>
+      <pubDate>Fri, 02 May 2025 20:23:20 +0300</pubDate>
+      <guid>https://hshs-dev.github.io/cs2day/posts/softwareconstructionandsystemadministration/</guid>
+      <description>&lt;p&gt;Welcome back to another week of Computer Science learning journey. In this post I will be talking about the two courses that I am currently taking, those are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MIT 6.031: Software Construction&lt;/li&gt;&#xA;&lt;li&gt;UCB Sysadmin DeCal&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Which are, indeed, great courses for Software engineering and Linux or System Administration.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#software-construction&#34;&gt;Software Construction&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#sysadmin-decal&#34;&gt;Sysadmin DeCal&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;software-construction&#34;&gt;Software Construction&lt;/h2&gt;&#xA;&lt;p&gt;This is MIT 6.031: Software Construction, particularly spring 2021, because the newer versions adopt TypeScript instead of Java.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why CS2Day?</title>
       <link>https://hshs-dev.github.io/cs2day/posts/whycs2day/</link>
