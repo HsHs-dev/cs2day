@@ -6,8 +6,15 @@
     <description>Recent content on CS2Day</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 May 2025 20:23:20 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 10:58:25 +0300</lastBuildDate>
     <atom:link href="https://hshs-dev.github.io/cs2day/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vim, DSA, and Single Variable Calculus</title>
+      <link>https://hshs-dev.github.io/cs2day/posts/vimdsaandsinglevarcalc/</link>
+      <pubDate>Fri, 30 May 2025 10:58:25 +0300</pubDate>
+      <guid>https://hshs-dev.github.io/cs2day/posts/vimdsaandsinglevarcalc/</guid>
+      <description>&lt;p&gt;Welcome back to another week, actually another five weeks in a single post, of &lt;em&gt;Computer Science&lt;/em&gt; learning journey, alot happened in the last 5 weeks, so get ready for one hella of a ride!&lt;/p&gt;&#xA;&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#vim-super-powers&#34;&gt;Vim Super Powers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#cs61b&#34;&gt;CS61B&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#mit-1801sc-single-variable-calculus&#34;&gt;Single Variable Calculus&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#sysadmindecal-postmortem&#34;&gt;SysadminDecal Postmortem&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;vim-super-powers&#34;&gt;Vim Super Powers&lt;/h2&gt;&#xA;&lt;p&gt;Before you even ask, I know how to exit Vim&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;:q!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;No more &lt;em&gt;how to exit vim jokes&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A programmer spends most of his time doing two things:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Software Construction and System Administration</title>
       <link>https://hshs-dev.github.io/cs2day/posts/softwareconstructionandsystemadministration/</link>
