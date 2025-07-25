@@ -6,8 +6,15 @@
     <description>Recent content on CS2Day</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 10:58:25 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 15:53:23 +0300</lastBuildDate>
     <atom:link href="https://hshs-dev.github.io/cs2day/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Engineering</title>
+      <link>https://hshs-dev.github.io/cs2day/posts/softwareengineering/</link>
+      <pubDate>Fri, 25 Jul 2025 15:53:23 +0300</pubDate>
+      <guid>https://hshs-dev.github.io/cs2day/posts/softwareengineering/</guid>
+      <description>&lt;p&gt;Hello there Internet friends, your electronic friend who came to you in form of electrons travelling at the speed of light through wires is back again. Today&amp;rsquo;s post will be fairly short, this past month wasn&amp;rsquo;t that great in terms of productivity and discipline, but I still have some thoughts to share and reflect upon, so without further ado, let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;p&gt;All I have now at the top of my mind about the last month is about &lt;em&gt;project 2&lt;/em&gt; of &lt;em&gt;CS61B Data Structures and Algorithms&lt;/em&gt;: &lt;strong&gt;gitlet version control system&lt;/strong&gt;, and yes it&amp;rsquo;s what you are thinking about, a tiny (not that tiny) version of the famous git, and this can give you a glimpse of how complex this project can get.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Vim, DSA, and Single Variable Calculus</title>
       <link>https://hshs-dev.github.io/cs2day/posts/vimdsaandsinglevarcalc/</link>
